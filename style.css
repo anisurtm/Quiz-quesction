@@ -1,0 +1,82 @@
+*{
+    font-family: sans-serif;
+}
+.parents{
+    width: 400px;
+    margin-left: 32%;
+    margin-top: 50px;
+    padding: 30px;
+    box-shadow: 0 26px 58px 0 rgba(0, 0, 0, .22), 0 5px 14px 0 rgba(0, 0, 0, .18);
+    background-color: #99b3cf;
+    border-radius: 8px;
+
+}
+
+.div1{
+    padding: 8px;
+    background-color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.div1:hover{
+    padding: 8px;
+    background-color: #45aaf2;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+}
+.div2{
+    background-color: white;
+    border-radius: 5px;
+    padding: 8px;
+    cursor: pointer;
+}
+.div2:hover{
+    padding: 8px;
+    background-color: #45aaf2;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+}
+.div3{
+    background-color: white;
+    border-radius: 5px;
+    padding: 8px;
+    cursor: pointer;
+}
+.div3:hover{
+    padding: 8px;
+    background-color: #45aaf2;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+}
+.div4{
+    background-color: white;
+    border-radius: 5px;
+    padding: 8px;
+    cursor: pointer;
+}
+.div4:hover{
+    padding: 8px;
+    background-color: #45aaf2;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+}
+button{
+    padding: 5px 10px;
+    background-color: blue;
+    color: white;
+    border-color: blue;
+    border-radius: 8px;
+    cursor: pointer;
+}
+button:hover{
+    padding: 5px 10px;
+    background-color: rgb(255, 0, 0);
+    color: white;
+    border-color: rgb(255, 0, 0);
+    border-radius: 8px;
+    cursor: pointer;
+}
